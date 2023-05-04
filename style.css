@@ -1,0 +1,117 @@
+
+header{
+    background-image: url('assets/bg.png');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.logo{
+    width: 90px;
+}
+
+
+.btn{
+    background-color: blue;
+    border-radius: 20px;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+#row-cursos {
+    background-image: url('assets/bg.png');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    color: white;
+}
+.row {
+    margin: 0;
+}
+
+#row-cursos img{
+    border-radius: 50%;
+}
+
+#row-nosotros{
+    background-image: url('assets/bg.png');
+    background-size: cover;
+    color: white;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+#row-nosotros img{
+    border-radius: 50%;
+}
+
+#row-trabajos {
+    background-image: url('assets/bg.png');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    color: white;
+}
+#row-trabajos img{
+    border-radius: 50%;
+}
+
+#row-datos {
+    background-image: url('assets/bg.png');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    color: white;
+}
+
+#row-datos img{
+    border-radius: 50%;
+}
+
+#row-formulario {
+    background-image: url('assets/bg.png');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    color: white;
+}
+.textprimary{
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+
+}
+.texttitle{
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.textsecundari{
+    color:rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.textparraf{
+    color:rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+footer {
+    background-color:rgba(85, 85, 85, 0.822)  ;
+    background-size: cover;
+    color:rgb(0, 0, 0);
+}
